@@ -1,7 +1,12 @@
-
+<<<<<<< HEAD
+Class Hello #dev2
+ {
+	  public static void main ()# dev2
+=======
 Class Hello #dev1
  {
 	  public static void main (#dev1)
+>>>>>>> 8eb468496ccc21cf2b83854be08cfe952fdc7dee
 	  
           {
 		  System.out.println("Hello world from dev1");
